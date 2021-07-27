@@ -1,5 +1,9 @@
 # Laboratorio_5
 # OBJETIVOS
+* General: 
+Analizar el funcionamiento del Teorema de Thévenin
+* Especifico:
+Verificar q la resistencia y el voltaje de Thévenin realizan un trabajo similar al circuito original.
 
 # MARCO TEORICO
 ![A](https://user-images.githubusercontent.com/85193519/127057148-e76c1f18-113e-446a-b925-6685070c1763.jpg)
@@ -25,6 +29,6 @@
 # Video
 https://www.youtube.com/watch?v=knMzqPHTNP0
 # Conclusiones
-
+El teorema de Thévenin resalta su importancia en la simplificación de circuitos lineales, aunque no es aplicable a todos ellos si no es bajo sus condiciones específicas como el poseer fuentes independientes en la red, este permite obtener un equivalente que realiza un trabajo similar o en redes más complejas al ser analizado mediante cortocircuitos, nos permite una prospectiva de corrientes máximas en caso de fallas.
 # Bibliografia
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning
